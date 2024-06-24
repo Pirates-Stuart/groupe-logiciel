@@ -17,7 +17,7 @@ body{
 }
 
 .price:hover{
-    background-color: rgba(9, 123, 223, 0.253);
+    background-color: rgba(9, 123, 223, 0.254);
     cursor: pointer;
     border: 1.5px solid black;
 }
